@@ -1,8 +1,8 @@
-let bgsound = new Audio("/game-library/Tic Tac Toe project/audios/motivational-background-corporate-city-273359.mp3");
-let turnsound = new Audio("/game-library/Tic Tac Toe project/audios/level-up-3-199576.mp3");
-let winsound = new Audio("/game-library/Tic Tac Toe project/audios/you-win-sequence-1-183948.mp3");
-let clicksound = new Audio("/game-library/Tic Tac Toe project/audios/pen-click-99025.mp3");
-let drawsound = new Audio("/game-library/Tic Tac Toe project/audios/game-over-39-199830.mp3");
+let bgsound = new Audio("/Game-Library/Tic Tac Toe project/audios/motivational-background-corporate-city-273359.mp3");
+let turnsound = new Audio("/Game-Library/Tic Tac Toe project/audios/level-up-3-199576.mp3");
+let winsound = new Audio("/Game-Library/Tic Tac Toe project/audios/you-win-sequence-1-183948.mp3");
+let clicksound = new Audio("/Game-Library/Tic Tac Toe project/audios/pen-click-99025.mp3");
+let drawsound = new Audio("/Game-Library/Tic Tac Toe project/audios/game-over-39-199830.mp3");
 
 let turn = "X";
 let isgameover = false;
