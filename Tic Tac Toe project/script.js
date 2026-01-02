@@ -1,5 +1,5 @@
-let bgsound = new Audio("/game-library/Tic Tac Toe project/audios/motivational-background-corporate-city-273359.mp3");
-let clicksound = new Audio("/game-library/Tic Tac Toe project/audios/pen-click-99025.mp3");
+let bgsound = new Audio("/Game-Library/Tic Tac Toe project/audios/motivational-background-corporate-city-273359.mp3");
+let clicksound = new Audio("/Game-Library/Tic Tac Toe project/audios/pen-click-99025.mp3");
 
 bgsound.volume = 0.3;
 clicksound.volume = 0.4;
